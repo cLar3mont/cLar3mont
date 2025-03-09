@@ -23,7 +23,7 @@ I'm Ky4nit3/M1sty_n3oN, an OC(original character) creater && coding noob.
 🥳 >> Accumulate drawing skill in spare time
 
 ### // Tech Stack
----
+
 #### Full Stack Developing(Learning)
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,13 +35,18 @@ Creating shouldn't be a tedious job, thus Original Character writers need to esc
 We wont be genius on painting, but still learning coding stands here firmly.
 
 ### // Statics
----
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cLar3mont&show_icons=true&theme=radical" /></a>
-<a href="https://github.com/anuraghazra/convoychat"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cLar3mont&layout=donut" /></a>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=cLar3mont&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cLar3mont&layout=donut" />
+  </a>
+</div>
 
 ### // Contact me
----
+
 You can find me on **Discord**, **Twitter** and **Tencent QQ**.
 <p align="center">
   <a href="https://skillicons.dev">
