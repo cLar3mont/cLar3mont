@@ -31,8 +31,8 @@ I'm Ky4nit3/M1sty_n3oN, an OC(original character) creater && coding noob.
   </a>
 </p>
 
-Creating shouldn't be a tedious job, thus Original Character writers need to escape stereotypes.
-We wont be genius on painting, but still learning coding stands here firmly.
+<h6 align="center">Creating shouldn't be a tedious job, thus Original Character writers need to escape stereotypes.</h6>
+<h6 align="center">We wont be genius on painting, but still learning coding stands here firmly.</h6>
 
 ### // Statics
 
@@ -41,7 +41,7 @@ We wont be genius on painting, but still learning coding stands here firmly.
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=cLar3mont&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cLar3mont&layout=donut" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cLar3mont&layout=donut&theme=radical" />
   </a>
 </div>
 
