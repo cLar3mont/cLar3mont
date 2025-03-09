@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+<!-- 
 **cLar3mont/cLar3mont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +12,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 Ciao Amici
+---
+I'm Ky4nit3/M1sty_n3oN, an OC(original character) creater && coding noob.
+
+👉 >> Creating nonprofit Original Character Forum (0/1)
+
+🙃 >> Learning Web Security & Seeking a job
+
+🥳 >> Accumulate drawing skill in spare time
+
+### // Tech Stack
+---
+#### Full Stack Developing(Learning)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,py,ps,ai,figma,apple" />
+  </a>
+</p>
+
+Creating shouldn't be a tedious job, thus Original Character writers need to escape stereotypes.
+We wont be genius on painting, but still learning coding stands here firmly.
+
+### // Statics
+---
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cLar3mont&show_icons=true&theme=radical" /></a>
+<a href="https://github.com/anuraghazra/convoychat"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cLar3mont&layout=donut" /></a>
+
+### // Contact me
+---
+You can find me on **Discord**, **Twitter** and **Tencent QQ**.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=twitter,discord,github,gmail" />
+  </a>
+</p>
+
+<h5 align="center">Something new may upcome in June&July.</h5>
